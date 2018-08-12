@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">android_multi_runtime_permissions</string>
+    <string name="multi_permissions_textview">Try multi runtime permissions,by capturing and save image to stroage</string>
+    <string name="multi_permissions_button">Try multi runtime permissions</string>
+
+    <string name="single_permissions_textview">Try single runtime permissions,by reading and image from gallery</string>
+    <string name="single_permissions_button">Try single runtime permissions</string>
+    <string name="deny_permission">Denying this permission means you would facing difficulties and limited features.</string>
+    <string name="goto_setting_dialog_message">We won\'t be able to this feature unless you enable this permission from settings.</string>
+    <string name="retry_button_string">Retry</string>
+    <string name="goto_setting_button_string">Setting</string>
 </resources>
